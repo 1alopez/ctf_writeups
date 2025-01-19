@@ -1,4 +1,4 @@
-# Repository for the write-up and scripts used to solve some CTF challenges 
+# CTF Write-ups and Offensive Security Practice Scripts
 
 # PWN101 
 Write-ups from tryhackmes PWN101 room https://tryhackme.com/r/room/pwn101
